@@ -1,0 +1,20 @@
+			// add inactive bears to new list and remove from bears list and spawn new one
+            //List<TeddyBear> bearsRemoveList = new List<TeddyBear>();
+            //foreach (TeddyBear bear in bears)
+            //{
+            //    if (!bear.Active)
+            //    {
+            //        bearsRemoveList.Add(bear);
+            //    }
+            //}
+            //foreach (TeddyBear bear in bearsRemoveList)
+            //{
+            //    bears.Remove(bear);
+            //    if (bears.Count == 0)
+            //    {
+            //        SpawnBear();
+            //    }
+                
+            //}
+			
+			
